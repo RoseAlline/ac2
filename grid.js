@@ -1,4 +1,4 @@
-import { Cell } from  "./cell12.js";
+import { Cell } from  "./cell.js";
 
 const GRID_SIZE = 5;
 const CELLS_COUNT = GRID_SIZE * GRID_SIZE;
